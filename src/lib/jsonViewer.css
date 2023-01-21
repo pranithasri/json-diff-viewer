@@ -1,0 +1,13 @@
+.json-viewer-title {
+  color: blue;
+  /* min-width: 50px; */
+}
+.object-start,
+.object-end {
+  color: brown;
+}
+
+.array-start,
+.array-end {
+  color: violet;
+}
